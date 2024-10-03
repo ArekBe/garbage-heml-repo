@@ -9,6 +9,6 @@ entries:
     name: nginx-sts
     type: application
     urls:
-    - https://github.com/ArekBe/garbage-heml-repo.git/nginx-sts-0.1.0.tgz
+    - https://arekbe.github.io/garbage-heml-repo/nginx-sts-0.1.0.tgz
     version: 0.1.0
 generated: "2024-10-03T14:57:51.311512835+02:00"
