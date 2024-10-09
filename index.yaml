@@ -3,7 +3,7 @@ entries:
   nginx-sts:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-03815:16:05.838472423+02:00"
+    created: "2024-10-08T15:16:05.838472423+02:00"
     description: A Helm chart for Kubernetes
     digest: 9ce7eabe965ab7edfee98f15a3e087b935c6197121275f7587ad30062bbef6ec
     name: nginx-sts
